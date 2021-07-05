@@ -1,24 +1,31 @@
-# README
+# Ideasy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- **Link to Live Site:** https://ideas-frontend.vercel.app/
 
-Things you may want to cover:
 
-* Ruby version
+## Project Summary
+An application where you can write/type down your ideas, where you can put multiple Ideas on a board. You're able to create new tile notes on your board which includes a title and the Idea (description), able to edit, and to delete your notes.
 
-* System dependencies
 
-* Configuration
+## Technology Used
+1. ReactJS
+2. JavaScript
+3. HTML
+4. CSS
+5. Vercel
+6. Ruby
+7. Ruby on Rails
+8. Heroku (Backend)
 
-* Database creation
 
-* Database initialization
+## Future Enhancements
+1. Add authentication/login for users.
+2. Change layout design
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Challenges
 
-* Deployment instructions
 
-* ...
+
+
+## Existing Bugs
