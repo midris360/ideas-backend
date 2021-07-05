@@ -12,7 +12,7 @@ An application where you can write/type down your ideas, where you can put multi
 2. JavaScript
 3. HTML
 4. CSS
-5. Vercel
+5. Vercel (Frontend)
 6. Ruby
 7. Ruby on Rails
 8. Heroku (Backend)
